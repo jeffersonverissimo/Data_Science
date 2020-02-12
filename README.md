@@ -5,7 +5,7 @@
 **Jefferson Alex Veríssimo da Silva**
 
 <p align="center">
-  <img src="background.png" >
+  <img src="Background.png" >
 </p>
 
 Neste repositório você encontrará meus principais projetos desenvolvidos na área de Data Science.

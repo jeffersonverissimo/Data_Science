@@ -12,8 +12,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 **Links para Projetos**
 
-* 
-*
+* [Análise de Dados do Airbnb na cidade de Roma](https://bit.ly/37uHy9v)
 
 
 **Sobre mim**

@@ -13,7 +13,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 **Links para Projetos**
 
 * [Analisando os Dados do Airbnb da Cidade de Roma](https://bit.ly/37uHy9v)
-
+* [Estudo dos Casos de Feminicídios no Estado do Rio de Janeiro](https://bit.ly/32fu5l1)
 
 **Sobre mim**
 

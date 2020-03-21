@@ -14,6 +14,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 * [Analisando os Dados do Airbnb da Cidade de Roma](https://bit.ly/37uHy9v)
 * [Estudo dos Casos de Feminicídios no Estado do Rio de Janeiro](https://bit.ly/32fu5l1)
+* [Análise Exploratória dos Dados de Segurança Pública do Rio de Janeiro](https://bit.ly/2J7PHH3)
 
 **Sobre mim**
 

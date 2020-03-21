@@ -17,11 +17,11 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 **Sobre mim**
 
-Graduando no curso de Engenharia Química na Universidade Federal da Paraíba, possuo experiência em vários projetos de iniciação científica como bolsista e voluntário, nas áreas de termodinâmica, química quântica computacional e química orgânica, além de participação em projeto de extensão.
+Graduando no curso de Engenharia Química da Universidade Federal da Paraíba e estudante de Ciência de Dados, possuo experiência em vários projetos de iniciação científica como bolsista e voluntário, nas áreas de termodinâmica, química quântica computacional e química orgânica, além de participação em projeto de extensão.
 
 Participei da Escola Piloto de Engenharia da UFPB: Grupo de Estudo de Novas Tecnologias (2016 - 2017) e fui integrante do grupo de pesquisa do Laboratório de Modelagem Molecular de Reações Químicas (2018 - 2019).
 
-Atualmente sou monitor da disciplina de Modelagem e Simulação de Processos Químicos, no departamento de Eng. Química da UFPB e trabalho em projeto de iniciação científica sobre Processos de Destilação. Possuo conhecimentos em linguagens de programação (Python, Matlab, VBA e Fortran), simuladores de processos (Aspen Plus, Hysys, ChemCad, COCO) e S.O. Linux.
+Atualmente sou monitor da disciplina de Modelagem e Simulação de Processos Químicos, no departamento de Eng. Química da UFPB e trabalho em projeto de iniciação científica sobre Processos de Destilação. Possuo conhecimentos em linguagens de programação (Python, Matlab, VBA e Fortran), simuladores de processos (Aspen Plus, Hysys, ChemCad, COCO) e S.O. Linux. 
 
 
 **Links:**

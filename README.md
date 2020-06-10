@@ -22,7 +22,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 Graduando do curso de Engenharia Química da Universidade Federal da Paraíba e estudante de Ciência de Dados, atualmente sou monitor da disciplina de Modelagem e Simulação de Processos Químicos, no departamento de Eng. Química da UFPB e trabalho em projeto de iniciação científica sobre Processos de Destilação. Também sou integrante do projeto de extensão Laboratório Lean - UFPB, focado no estudo e implementação da metodologia Lean Manufecturing e em práticas Sustentáveis em organizações da cidade de João Pessoa - PB e Região Metropolitana.
 
-Em aplicações da Engenharia Química, possuo experiência no uso de simuladores de processos químicos (Aspen Plus, Hysys, ChemCAD e COCO) e linguagens de programação (Python, Matlab | Scilab | Octave, Fortran e VBA).
+Em aplicações da Engenharia Química, possuo experiência no uso de simuladores de processos químicos (Aspen Plus, Hysys, ChemCAD e COCO) e linguagens de programação (Python, Matlab | Scilab | Octave).
 
 Também tenho experiência em vários projetos de iniciação científica, nas áreas de Termodinâmica, Química Quântica Computacional e Química Orgânica. Fui integrante da Escola Piloto de Engenharia da UFPB: Grupo de Estudo de Novas Tecnologias (2016 - 2017) e do grupo de pesquisa do Laboratório de Modelagem Molecular de Reações Químicas da UFPB (2018 - 2019).
 

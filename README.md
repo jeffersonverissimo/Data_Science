@@ -12,7 +12,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 **Links para Projetos**
 
-* [Estudo de Caso: COVID-19 no Brasil]()
+* [Estudo de Caso: COVID-19 no Brasil](https://bit.ly/3hIPUke)
 * [Predição de Casos da COVID-19 usando o Prophet](https://bit.ly/39CrJ1o)
 * [Casos de COVID-19 no Mundo: Análise Exploratória](https://bit.ly/3bFOJOK)
 * [Análise Exploratória dos Dados de Segurança Pública do Rio de Janeiro](https://bit.ly/2J7PHH3)

@@ -2,8 +2,6 @@
 
 [![author](https://img.shields.io/badge/author-Jefferson_Veríssimo-black.svg)](https://www.linkedin.com/in/jefferson-veríssimo-963094177/) 
 
-**Jefferson Alex Veríssimo da Silva**
-
 <p align="center">
   <img src="Background.png" >
 </p>

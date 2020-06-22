@@ -14,7 +14,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 * [Predição de Casos da COVID-19 usando o Prophet](https://bit.ly/2Nj4e4R)
 * [Casos de COVID-19 no Mundo: Análise Exploratória](https://bit.ly/2V2gE5h)
 * [Análise Exploratória dos Dados de Segurança Pública do Rio de Janeiro](https://bit.ly/3fJOPXt)
-* [Estudo dos Casos de Feminicídios no Estado do Rio de Janeiro](https://bit.ly/32fu5l1)
+* [Estudo dos Casos de Feminicídios no Estado do Rio de Janeiro](https://bit.ly/2NfiXhe)
 * [Analisando os Dados do Airbnb da Cidade de Roma](https://bit.ly/37uHy9v)
 
 

@@ -10,6 +10,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 **Links para Projetos**
 
+* [Diagnóstico de Doenças Cardiovasculares usando Machine Learning](https://bit.ly/2ZbiC4y)
 * [Estudo de Caso: COVID-19 no Brasil](https://bit.ly/2YUDU6H)
 * [Predição de Casos da COVID-19 usando o Prophet](https://bit.ly/2Nj4e4R)
 * [Casos de COVID-19 no Mundo: Análise Exploratória](https://bit.ly/2V2gE5h)

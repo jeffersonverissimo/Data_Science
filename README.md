@@ -10,6 +10,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 **Links para Projetos**
 
+* [Naufrágio do Titanic: Uma Análise Usando Data Science](https://bit.ly/3bo78Au)
 * [Diagnóstico de Doenças Cardiovasculares usando Machine Learning](https://bit.ly/2Nu6GFR)
 * [Estudo de Caso: COVID-19 no Brasil](https://bit.ly/2YUDU6H)
 * [Predição de Casos da COVID-19 usando o Prophet](https://bit.ly/2Nj4e4R)

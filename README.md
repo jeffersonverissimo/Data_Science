@@ -10,6 +10,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 **Links para Projetos**
 
+* [Suicídio no Brasil: Análise Exploratória de Dados](https://bit.ly/3mjENAv)
 * [Naufrágio do Titanic: Uma Análise Usando Data Science](https://bit.ly/2Z3bmZh)
 * [Diagnóstico de Doenças Cardiovasculares usando Machine Learning](https://bit.ly/2Nu6GFR)
 * [Estudo de Caso: COVID-19 no Brasil](https://bit.ly/2YUDU6H)

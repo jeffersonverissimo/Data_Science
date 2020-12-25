@@ -10,6 +10,7 @@ Neste repositório você encontrará meus principais projetos desenvolvidos na �
 
 **Links para Projetos**
 
+* [Uso de Machine Learning na Detecção de Fraudes em Cartões de Crédito](https://bit.ly/3aGtEX9)
 * [Detecção de Câncer de Mama usando Machine Learning](https://bit.ly/37kvQC6)
 * [Suicídio no Brasil: Análise Exploratória de Dados](https://bit.ly/3mjENAv)
 * [Naufrágio do Titanic: Uma Análise Usando Data Science](https://bit.ly/2Z3bmZh)
@@ -32,6 +33,6 @@ Também tenho experiência em vários projetos de iniciação científica, nas �
 
 
 **Links:**
-* [Linkedin](https://www.linkedin.com/in/jefferson-veríssimo-963094177/)
-* [Medium](https://medium.com/@jeffersonverissimo_)
+* [Linkedin](https://www.linkedin.com/in/jefferson-veríssimo/)
+* [Medium](https://medium.com/@jeffersonverissimo)
 * [Instagram](https://www.instagram.com/jeffverissimo_/)
